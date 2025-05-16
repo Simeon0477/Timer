@@ -1,2 +1,18 @@
-# Timer
-Création d'un minuteur avec HTML, CSS et Javascript
+# Minuteur
+
+Minuteur simple en HTML, CSS et JavaScript.
+
+## Fonctions
+
+- Définir un temps  
+- Démarrer / Réinitialiser
+
+## Technologies
+
+- HTML  
+- CSS  
+- JavaScript
+
+## Utilisation
+
+Ouvrir index.html dans un navigateur.
